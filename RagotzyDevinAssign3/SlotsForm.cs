@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// DAKOTA add the files .playconfig and winners to the bin/debug folder and 
+// everything will work itll work either way but it might be buggy
 using System.IO; // add for stream read/write
 // just so I can finish what i started
 using System.Net.Http;
@@ -125,6 +127,7 @@ namespace RagotzyDevinAssign3 {
         const String PRIZE_1 = "One Dollar Old";
         const String PRIZE_0 = "No Prize";
 
+        // DAKOTA location of json used in the second to last method all the way down
         const String URL = "https://api.exchangeratesapi.io/latest?base=USD";
 
         // ********************** form start *************************
