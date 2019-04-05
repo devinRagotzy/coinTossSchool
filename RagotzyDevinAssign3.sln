@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RagotzyDevinAssign3", "RagotzyDevinAssign3\RagotzyDevinAssign3.csproj", "{5B351228-22B3-4B73-9B7F-0DA91DEE0FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B351228-22B3-4B73-9B7F-0DA91DEE0FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B351228-22B3-4B73-9B7F-0DA91DEE0FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B351228-22B3-4B73-9B7F-0DA91DEE0FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B351228-22B3-4B73-9B7F-0DA91DEE0FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FD20A52-25BC-464B-9F27-50F51039D8A5}
+	EndGlobalSection
+EndGlobal
